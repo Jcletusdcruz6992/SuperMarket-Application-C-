@@ -1,0 +1,2 @@
+	apple	20	0.4	BUY3	0.25	3
+	apple	2	0.4	BUY3	0.25	3

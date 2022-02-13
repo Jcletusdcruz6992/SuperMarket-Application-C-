@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644343228 source:c:\users\james\onedrive\desktop\christy_digital_assignment\supermarket_application\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<cmath>
+

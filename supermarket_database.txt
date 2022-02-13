@@ -1,0 +1,7 @@
+	apple	0.4	BUY3	0.25	3
+	banana	0.75	BUY10	0.2	10
+	coconut	2	BUY2	0.25	2
+	donut	0.5	NoDiscount	0	0
+	orange	3	BUY5	0.866667	5
+	wheat	8	BUY6	0.916667	6
+	milk	4	BUY2	0.525	2
